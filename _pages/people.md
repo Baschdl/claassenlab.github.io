@@ -7,26 +7,16 @@ author_profile: true
 ---
 
 
-## Prof. Dr. Manfred Claassen (PI)
+## Principal investigator
+Prof. Dr. Manfred Claassen
 
-Tbd
+## Junior research group leader
+Dr.  Kilian Wistuba-Hamprecht
 
-## Dr. Kilian Wistuba-Hamprecht (Junior research group leader)
+## Postdocs
+Dr. Sepideh Babaei
+Dr. Debdas Paul 
 
-Tbd
-
-## Dr. Sepideh Babaei (Postdoc)
-
-Tbd 
-
-## Dr. Debdas Paul (Postdoc)
-
-Tbd
-
-## Revant Gupta (PhD student)
-
-Tbd
-
-## Matthias Bruhns (PhD student)
-
-Tbd
+## PhD students
+Revant Gupta
+Matthias Bruhns
