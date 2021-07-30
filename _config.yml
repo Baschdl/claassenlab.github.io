@@ -120,8 +120,8 @@ author:
 # Reading Files
 include:
   - .htaccess
-  # - _pages
-  # - files
+  - _pages
+  #- files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
