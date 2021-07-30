@@ -1,6 +1,6 @@
 ---
 permalink: /people/manfred-claassen/
-title: "Prof. Dr. Manfred Claassen"
+title: "People"
 excerpt: ""
 author_profile: true
 

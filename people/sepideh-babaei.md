@@ -1,6 +1,6 @@
 ---
 permalink: /people/sepideh-babaei/
-title: "Dr. Sepideh Babaei"
+title: "People"
 excerpt: ""
 author_profile: true
 

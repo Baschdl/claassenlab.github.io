@@ -8,15 +8,15 @@ author_profile: true
 
 
 ## Principal investigator
-Prof. Dr. Manfred Claassen
+[IProf. Dr. Manfred Claassen](../people/manfred-claassen.md)
 
 ## Junior research group leader
 Dr.  Kilian Wistuba-Hamprecht
 
 ## Postdocs
-Dr. Sepideh Babaei
+Dr. Sepideh Babaei<br/>
 Dr. Debdas Paul 
 
 ## PhD students
-Revant Gupta
+Revant Gupta<br/>
 Matthias Bruhns
