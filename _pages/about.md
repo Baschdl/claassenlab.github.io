@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "Claasen lab"
-excerpt: "About me"
+title: ""
+excerpt: "About us"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Clinical bioinformatics & Machine learning in translational single-cell biology 
+Clinical bioinformatics & machine learning in translational single-cell biology 
 ======
 Phenotype of multicellular organisms is the result of an intricate interplay of heterogeneous cell populations. Many complex diseases feature a disruption of this interplay or are the result of a pathologically altered cell population. Our lab develops formalisms to summarize molecular and functional properties of such heterogeneous cell populations on the basis of single cell resolved data sources and thereby aims to contribute to a systems-level understanding of complex biological systems, their pathological alterations and a perspective to rationally specify novel therapeutic targets.
 
