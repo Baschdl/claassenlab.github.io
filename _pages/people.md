@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 
-## Prof. Dr. Manfred Claassen (Group leader)
+## Prof. Dr. Manfred Claassen (PI)
 
 Tbd
 
