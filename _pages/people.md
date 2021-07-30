@@ -7,22 +7,22 @@ author_profile: true
 ---
 
 
-## Prof. Dr. Manfred Claassen
+## Prof. Dr. Manfred Claassen (Group leader)
 
 Tbd
 
-## Dr. Sepideh Babaei
+## Dr. Sepideh Babaei (Postdoc)
 
 Tbd 
 
-## Dr. Debdas Paul
+## Dr. Debdas Paul (Postdoc)
 
 Tbd
 
-## Revant Gupta
+## Revant Gupta (PhD student)
 
 Tbd
 
-## Matthias Bruhns
+## Matthias Bruhns (PhD student)
 
 Tbd

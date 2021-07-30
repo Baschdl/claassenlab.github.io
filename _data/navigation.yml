@@ -9,3 +9,6 @@ main:
 
   - title: "People"
     url: "/people/"
+
+  - title: "Open positions"
+    url: "/positions/"
