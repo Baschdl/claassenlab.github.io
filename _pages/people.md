@@ -20,3 +20,21 @@ author_profile: true
 ## PhD students
 [Revant Gupta](../people/revant-gupta.md)<br/>
 [Matthias Bruhns](../people/matthias-bruhns.md)
+
+
+## Alumni
+
+Max Mosbacher 
+Dario Cerletti 
+Ioana Sandu (ETH Zurich)
+Corin Otesteanu (University of Zurich)
+Andreas Kopf (aimedic AG)
+Sarah Brüningk (ETH Zurich)
+Mehdi Taslimifar (Kantonalbank Zurich)
+Jake Taylor-King (Relation Therapeutics)
+Stefan Ganscha (Google, Zurich)
+Will Macnair (Roche, Basel)
+Anna Susmelj (SDSC, Swiss Data Science Center)
+Eirini Arvaniti (BenevolentAI)
+Laura De Vargas Roditi (ETH Zurich)
+Justin Feigelman (Genentech)
