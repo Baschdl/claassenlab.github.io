@@ -24,17 +24,17 @@ author_profile: true
 
 ## Alumni
 
-Max Mosbacher 
-Dario Cerletti 
-Ioana Sandu (ETH Zurich)
-Corin Otesteanu (University of Zurich)
-Andreas Kopf (aimedic AG)
-Sarah Brüningk (ETH Zurich)
-Mehdi Taslimifar (Kantonalbank Zurich)
-Jake Taylor-King (Relation Therapeutics)
-Stefan Ganscha (Google, Zurich)
-Will Macnair (Roche, Basel)
-Anna Susmelj (SDSC, Swiss Data Science Center)
-Eirini Arvaniti (BenevolentAI)
-Laura De Vargas Roditi (ETH Zurich)
-Justin Feigelman (Genentech)
+Max Mosbacher <br/>
+Dario Cerletti <br/>
+Ioana Sandu (ETH Zurich)<br/>
+Corin Otesteanu (University of Zurich)<br/>
+Andreas Kopf (aimedic AG)<br/>
+Sarah Brüningk (ETH Zurich)<br/>
+Mehdi Taslimifar (Kantonalbank Zurich)<br/>
+Jake Taylor-King (Relation Therapeutics)<br/>
+Stefan Ganscha (Google, Zurich)<br/>
+Will Macnair (Roche, Basel)<br/>
+Anna Susmelj (SDSC, Swiss Data Science Center)<br/>
+Eirini Arvaniti (BenevolentAI)<br/>
+Laura De Vargas Roditi (ETH Zurich)<br/>
+Justin Feigelman (Genentech)<br/>
