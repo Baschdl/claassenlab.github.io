@@ -19,10 +19,12 @@ author_profile: true
 
 ## PhD students
 [Revant Gupta](../people/revant-gupta.md)<br/>
-[Matthias Bruhns](../people/matthias-bruhns.md)
+[Matthias Bruhns](../people/matthias-bruhns.md)<br/>
+
+<br/>
 
 
-### Alumni
+## Alumni
 
 Max Mosbacher <br/>
 Dario Cerletti <br/>
