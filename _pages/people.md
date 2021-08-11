@@ -22,7 +22,7 @@ author_profile: true
 [Matthias Bruhns](../people/matthias-bruhns.md)
 
 
-## Alumni
+### Alumni
 
 Max Mosbacher <br/>
 Dario Cerletti <br/>
