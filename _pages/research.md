@@ -15,4 +15,4 @@ The research of our lab can be divided into five core aspects:
 - [Unsupervised cell type definition and dynamics](../research/unsupervised-annotation-dynamics.md)
 
 
-- <img align="left" width="100" height="100" src="../images/timeseries.png">
+- <img align="left" width="120" height="120" src="../images/timeseries.png"> [Comparative single-cell timeseries analysis](../research/single-cell-timeseries-analysis.md)
