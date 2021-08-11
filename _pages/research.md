@@ -15,7 +15,7 @@ The research of our lab can be divided into five core aspects:
 - [Unsupervised cell type definition and dynamics](../research/unsupervised-annotation-dynamics.md)
 
 [Comparative single-cell data analysis](../research/single-cell-analysis.md): 
-![alt text](../images/spatial-single-cell-analysis.png "Comparative single-cell data analysis")
+![alt text](../images/single-cell-analysis.png "Comparative single-cell data analysis")
 
 [Comparative spatial single-cell analysis](../research/spatial-single-cell-analysis.md): 
-![alt text](../images/spatial-single-cell-analysis.png "Comparative spatial single-cell analysis")
+![alt text](../images/spatial-single-cell-analysis.png =150x150 "Comparative spatial single-cell analysis")
