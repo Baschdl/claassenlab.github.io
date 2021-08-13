@@ -3,8 +3,9 @@ permalink: /positions/
 title: "Open positions"
 excerpt: ""
 author_profile: true
-
 ---
+
+- - - - -
 Currently there are two positions to be filled:
 
 - [Doctoral Research Assistant  (m/f/d, E13 TV-L, 65%)](../positions/phd-position-1.md)
