@@ -10,18 +10,17 @@ author_profile: true
 [Prof. Dr. Manfred Claassen](../people/manfred-claassen.md) (Drylab)  [Dr.  Kilian Wistuba-Hamprecht](../people/kilian-wistuba-hamprecht.md) (Wetlab)
 
 [Dr. Sepideh Babaei](../people/sepideh-babaei.md)<br/>
-[Dr. Debdas Paul](../people/debdas-paul.md)
-
-[Revant Gupta](../people/revant-gupta.md)<br/>
-[Matthias Bruhns](../people/matthias-bruhns.md)<br/>
-
-[Andrea Gaißler](../people/andrea-gaißler.md)<br/>
 [Nicole Beucke](../people/nicola-beucke.md)<br/>
 [Jonas Bochem](../people/jonas-bochem.md)<br/>
+[Matthias Bruhns](../people/matthias-bruhns.md)<br/>
+[Andrea Gaißler](../people/andrea-gaißler.md)<br/>
+[Revant Gupta](../people/revant-gupta.md)<br/>
 [Dr. Alexander Martens](../people/alexander-martens.md)<br/>
+[Dr. Anne Mohrholz](../people/anne-mohrholz.md)<br/>
+[Dr. Debdas Paul](../people/debdas-paul.md)
 [Janine Spreuer](../people/janine-spreuer.md)<br/>
 [Svenja Wingerter](../people/svenja-wingerter.md)<br/>
-[Dr. Anne Mohrholz](../people/anne-mohrholz.md)<br/>
+
 
 
 <br/>
