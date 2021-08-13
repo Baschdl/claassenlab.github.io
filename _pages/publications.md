@@ -603,9 +603,7 @@ author_profile: true
   
   <div class="bibtex_structure">
   <div class="group year" extra="DESC number">
-    <div class="group journal" extra="ASC string">
         <div class="templates"></div>
-      </div>
     </div>
   </div>
 </div>

@@ -13,6 +13,6 @@ Currently there are two positions to be filled:
 
 - - - - -
 
-You can also refer to the [website of the University of Tübingen](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/open-positions/) for open positions in our lab or contact [Prof. Dr. Manfred Claassen](mailto:manfred.claassen@med.uni-tuebingen.de) directly.
+You can also refer to the [website of the University of Tübingen](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/open-positions/) for open positions in our lab or contact [Prof. Dr. Manfred Claassen](mailto:manfred.claassen@med.uni-tuebingen.de) directly for initiative applications.
 
 Students looking for a Bachelor's or Master's thesis are encouraged to contact [Prof. Dr. Manfred Claassen](mailto:manfred.claassen@med.uni-tuebingen.de).
