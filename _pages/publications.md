@@ -732,6 +732,24 @@ author_profile: true
 
 </textarea>
 
-<div id="bibtex_display"></div>
+<div id="bibtex_display">
+
+  <div class="bibtex_template">
+    <ul> <li>
+      <span class="if title">
+        <a class="url">
+            <span class="title"></span>,
+        </a>
+      </span>
+      <div class="if author">
+        <span class="author"></span>
+      </div>
+      <div>
+        <span class="if journal"><em><span class="journal"></span></em></span>
+        <span class="if month"><span class="month"></span>,</span>
+        <span class="if year"><span class="year"></span>.</span>
+      </div>
+    </li></ul>
+  </div>
 
 </dl>
