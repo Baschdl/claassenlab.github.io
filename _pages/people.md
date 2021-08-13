@@ -7,19 +7,22 @@ author_profile: true
 ---
 
 
-## Principal investigator
-[Prof. Dr. Manfred Claassen](../people/manfred-claassen.md)
+[Prof. Dr. Manfred Claassen](../people/manfred-claassen.md) (Drylab)  [Dr.  Kilian Wistuba-Hamprecht](../people/kilian-wistuba-hamprecht.md) (Wetlab)
 
-## Junior research group leader
-[Dr.  Kilian Wistuba-Hamprecht](../people/kilian-wistuba-hamprecht.md)
-
-## Postdocs
 [Dr. Sepideh Babaei](../people/sepideh-babaei.md)<br/>
 [Dr. Debdas Paul](../people/debdas-paul.md)
 
-## PhD students
 [Revant Gupta](../people/revant-gupta.md)<br/>
 [Matthias Bruhns](../people/matthias-bruhns.md)<br/>
+
+[Andrea Gaißler](../people/andrea-geißler.md)<br/>
+[Nicole Beucke](../people/nicola-beucke.md)<br/>
+[Jonas Bochem](../people/jonas-bochem.md)<br/>
+[Dr. Alexander Martens](../people/alexander-martens.md)<br/>
+[Janine Spreuer](../people/janine-spreuer.md)<br/>
+[Svenja Wingerter](../people/svenja-wingerter.md)<br/>
+[Dr. Anne Mohrholz](../people/anne-mohrholz.md)<br/>
+
 
 <br/>
 
