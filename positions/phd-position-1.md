@@ -1,12 +1,12 @@
 ---
 permalink: /positions/phd-position-1/
-title: "Doctoral Research Assistant (m/f/d, E13 TV-L, 65%)
+title: "Doctoral Research Assistant (m/f/d, E13 TV-L, 65%)"
 excerpt: ""
 author_profile: true
 
 ---
 
-A position is open for a postdoctoral research assistant in the Clinical Bioinformatics group at the University Hospital/University of Tübingen. The available position focuses on development and application of machine learning approaches for the simulation based reconstruction of differentiation processes of immune cells during viral infections.
+A position is open for a doctoral research assistant in the Clinical Bioinformatics group at the University Hospital/University of Tübingen. The available position focuses on development and application of machine learning approaches for the simulation based reconstruction of differentiation processes of immune cells during viral infections.
 
 We are looking for you as of now, or upon agreement, as a
 Doctoral Research Assistant (m/f/d, E13 TV-L, 65%)
