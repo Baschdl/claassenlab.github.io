@@ -5,6 +5,11 @@ excerpt: ""
 author_profile: true
 
 ---
+Currently there are two positions to be filled:
+
+- [Doctoral Research Assistant](../positions/phd-position-1.md)
+- Postdoctoral Research Assistant (m/f/d, E13 TV-L, 100%) 
+
 
 
 If you are interested in joining our lab as a PhD student or postdoc, please refer to the [website of the University of Tübingen](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/open-positions/) for open positions in our lab or contact  [Prof. Dr. Manfred Claassen](mailto:manfred.claassen@med.uni-tuebingen.de) directly.
