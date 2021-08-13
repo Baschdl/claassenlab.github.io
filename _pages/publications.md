@@ -97,13 +97,6 @@ author_profile: true
   publisher={John Wiley \& Sons, Ltd Chichester, UK}
 }
 
-@phdthesis{claassen2010design,
-  title={Design and Validation of Proteome Measurements},
-  author={Claassen, Manfred},
-  year={2010},
-  school={ETH Zurich}
-}
-
 @article{ludwig2012estimation,
   title={Estimation of absolute protein quantities of unlabeled samples by selected reaction monitoring mass spectrometry},
   author={Ludwig, Christina and Claassen, Manfred and Schmidt, Alexander and Aebersold, Ruedi},
@@ -147,15 +140,10 @@ author_profile: true
   publisher={Cell Press}
 }
 
-@article{aebersoldvalidation,
-  title={Validation: Quantitative, targeted metabolomics},
-  author={Aebersold, Ruedi and Gstaiger, Matthias and Malmstr{\"o}m, Lars and Hafen, Ernst and Stocker, Hugo and Sauer, Uwe and Zamboni, Nicola and Stoffel, Markus and Wollscheid, Bernd}
-}
-
 @article{claassen2013shooting,
   title={Shooting movies of signaling network dynamics with multiparametric cytometry},
   author={Claassen, Manfred},
-  journal={High-dimensional single cell analysis},
+  journal={Current Topics in Microbiology and Immunology},
   pages={177--189},
   year={2013},
   publisher={Springer, Berlin, Heidelberg}
@@ -164,14 +152,14 @@ author_profile: true
 @article{arvaniti2013markov,
   title={Markov network structure learning via ensemble-of-forests models},
   author={Arvaniti, Eirini and Claassen, Manfred},
-  journal={arXiv preprint arXiv:1312.4710},
+  journal={arXiv},
   year={2013}
 }
 
 @article{mitov2013fused,
   title={A fused elastic net logistic regression model for multi-task binary classification},
   author={Mitov, Venelin and Claassen, Manfred},
-  journal={arXiv preprint arXiv:1312.7750},
+  journal={arXiv},
   year={2013}
 }
 
@@ -194,16 +182,6 @@ author_profile: true
   pages={e185--e186},
   year={2015},
   publisher={Elsevier}
-}
-
-@inproceedings{roditi2015current,
-  title={Current Challenges in Cell-Type Discovery Through Single-Cell Data},
-  author={Roditi, Laura De Vargas and Macnair, Will and Claassen, Manfred},
-  booktitle={ITM Web of Conferences},
-  volume={5},
-  pages={00010},
-  year={2015},
-  organization={EDP Sciences}
 }
 
 @article{arvaniti2017sensitive,
@@ -251,7 +229,7 @@ author_profile: true
 @article{feigelman2016matleap,
   title={matLeap: A fast adaptive Matlab-ready tau-leaping implementation suitable for Bayesian inference},
   author={Feigelman, Justin and Ganscha, Stefan and Claassen, Manfred},
-  journal={arXiv preprint arXiv:1608.07058},
+  journal={arXiv},
   year={2016}
 }
 
@@ -318,14 +296,6 @@ author_profile: true
   publisher={Public Library of Science}
 }
 
-@inproceedings{claassen2010generic,
-  title={Generic comparison of protein inference engine families},
-  author={Claassen, Manfred and Reiter, Lukas and Hengartner, Michael O and Buhmann, Joachim M and Aebersold, Ruedi},
-  booktitle={RECOMB Satellite Conference on Computational Proteomics 2010},
-  year={2010},
-  organization={University of California, San Diego}
-}
-
 @article{macnair2019tree,
   title={Tree-ensemble analysis assesses presence of multifurcations in single cell data},
   author={Macnair, Will and De Vargas Roditi, Laura and Ganscha, Stefan and Claassen, Manfred},
@@ -337,9 +307,9 @@ author_profile: true
 }
 
 @article{ventura2018tgf,
-  title={TGF-$\beta$ induces oncofetal fibronectin that, in turn, modulates TGF-$\beta$ superfamily signaling in endothelial cells},
+  title={TGF-\beta induces oncofetal fibronectin that, in turn, modulates TGF-\beta superfamily signaling in endothelial cells},
   author={Ventura, Elisa and Weller, Michael and Macnair, Will and Eschbach, Katja and Beisel, Christian and Cordazzo, Cinzia and Claassen, Manfred and Zardi, Luciano and Burghardt, Isabel},
-  journal={Journal of cell science},
+  journal={Journal of Cell Science},
   volume={131},
   number={1},
   pages={jcs209619},
@@ -367,14 +337,6 @@ author_profile: true
   pages={2819--2831},
   year={2018},
   publisher={Cell Press}
-}
-
-@article{aebersold2017navigation,
-  title={Navigation Area},
-  author={Aebersold, Ruedi and Pestalozzi, Martin and Gillet, Ludovic and Pedrioli, Patrick and Amon, Sabine and Blattmann, Peter and Buljan, Marija and Ciuffa, Rodolfo and Ewing, Michael and Faini, Marco and others},
-  journal={Genome},
-  pages={01},
-  year={2017}
 }
 
 @article{ganscha2018supervised,
@@ -408,80 +370,20 @@ author_profile: true
   publisher={Nature Publishing Group}
 }
 
-@article{arvaniti2018automated2,
-  title={Automated Gleason grading of prostate cancer via deep learning},
-  author={Arvaniti, E and Fricker, KS and Moret, M and Rupp, N and Fankhauser, C and Hermanns, T and Wey, N and Wild, P and R{\"u}schoff, J and Claassen, M},
-  journal={European Urology Supplements},
-  volume={17},
-  number={14},
-  pages={e3020--e3021},
-  year={2018},
-  publisher={Elsevier}
-}
-
 @article{arvaniti2018coupling,
   title={Coupling weak and strong supervision for classification of prostate cancer histopathology images},
   author={Arvaniti, Eirini and Claassen, Manfred},
-  journal={arXiv preprint arXiv:1811.07013},
+  journal={arXiv},
   year={2018}
 }
 
-@article{wu2017distinct,
-  title={Distinct molecular genetics of chronic lymphocytic leukemia in Taiwan: clinical and pathogenetic implications},
-  author={Wu, Shang-Ju and Lin, Chien-Ting and Agathangelidis, Andreas and Lin, Liang-In and Kuo, Yuan-Yeh and Tien, Hwei-Fang and Ghia, Paolo},
-  journal={haematologica},
-  volume={102},
-  number={6},
-  pages={1085},
-  year={2017},
-  publisher={Ferrata Storti Foundation}
-}
-
-@article{macnair2019psupertime,
-  title={psupertime: supervised pseudotime inference for single cell RNA-seq data with sequential labels},
-  author={Macnair, Will and Claassen, Manfred},
-  journal={bioRxiv},
-  pages={622001},
-  year={2019},
-  publisher={Cold Spring Harbor Laboratory}
-}
-
-@article{arvaniti2019author,
-  title={Author Correction: Automated Gleason grading of prostate cancer tissue microarrays via deep learning},
-  author={Arvaniti, Eirini and Fricker, Kim S and Moret, Michael and Rupp, Niels and Hermanns, Thomas and Fankhauser, Christian and Wey, Norbert and Wild, Peter J and R{\"u}schoff, Jan H and Claassen, Manfred},
-  journal={Scientific reports},
+@article{arvaniti2019automated,
+  title={Automated Gleason grading of prostate cancer tissue microarrays via deep learning},
+  author={Arvaniti, Eirini and Fricker, Kim S and Moret, Michael and Rupp, Niels and Hermanns, Thomas and Fankhauser, Christian and Wey, Norbert and Wild, Peter J and Ruschoff, Jan H and Claassen, Manfred},
+  journal={Scientific Reports},
   volume={9},
-  number={1},
-  pages={1--1},
   year={2019},
   publisher={Nature Publishing Group}
-}
-
-@article{arvaniti2019automated,
-  title={Automated Gleason grading of prostate cancer tissue microarrays via deep learning (vol 8, 12054, 2018)},
-  author={Arvaniti, Eirini and Fricker, Kim S and Moret, Michael and Rupp, Niels and Hermanns, Thomas and Fankhauser, Christian and Wey, Norbert and Wild, Peter J and Ruschoff, Jan H and Claassen, Manfred},
-  journal={SCIENTIFIC REPORTS},
-  volume={9},
-  year={2019},
-  publisher={NATURE PUBLISHING GROUP}
-}
-
-@article{klimovskaia20194,
-  title={4 Causal learning of signaling pathways from single-cell time series snapshots},
-  author={Klimovskaia, Anna and Magliacane, Sara and Ganscha, Stefan and Radler, Fabian and Claassen, Manfred},
-  journal={Identification of causal mechanisms of cell variability in signaling networks from single-cell time series snapshots},
-  pages={61},
-  year={2019},
-  publisher={Lomonosov Moscow State University}
-}
-
-@article{klimovskaia20193,
-  title={3 Identification of mechanisms of fractional killing in TRAIL-induced apoptosis from mass cytometry time series snapshots},
-  author={Klimovskaia, Anna and Ko, Melissa and Nolan, Garry P and Claassen, Manfred},
-  journal={Identification of causal mechanisms of cell variability in signaling networks from single-cell time series snapshots},
-  pages={37},
-  year={2019},
-  publisher={Lomonosov Moscow State University}
 }
 
 @article{galli2019gm,
@@ -506,38 +408,11 @@ author_profile: true
 }
 
 @article{yalcinkaya2019structure,
-  title={Structure-function Relationships of HDL in Diabetes and Coronary Heart Disease:\# 17},
+  title={Structure-function Relationships of HDL in Diabetes and Coronary Heart Disease},
   author={Yalcinkaya, Mustafa and Cardner, Mathias and Goetze, Sandra and Luca, Edlira and Bal{\'a}z, Miroslav and Hunjadi, Monika and Hartung, Johannes and Kr{\"a}nkel, Nicolle and Shemet, Andrej and Radosavljevic, Silvija and others},
   journal={Clinical Chemistry and Laboratory Medicine},
   volume={57},
   number={9},
-  year={2019}
-}
-
-@inproceedings{schulz2019mass,
-  title={Mass cytometry combined with computational data mining reveals a multifactorial immune cell signature of active rheumatoid arthritis},
-  author={Schulz, A and Burns, T and Stanislawiak, S and Baumgart, S and Bockhorn, V and Patermann, J and Burger, S and Krause, A and Claassen, M and Gruetzkau, A and others},
-  booktitle={EUROPEAN JOURNAL OF IMMUNOLOGY},
-  volume={49},
-  pages={225--226},
-  year={2019},
-  organization={WILEY 111 RIVER ST, HOBOKEN 07030-5774, NJ USA}
-}
-
-@inproceedings{diebold2019high,
-  title={High-dimensional characterisation of dimethyl fumarate-induced immune phenotype},
-  author={Diebold, M and Galli, E and Kopf, A and Sanderson, N and Lindberg, RL and Claassen, M and Becher, B and Derfuss, T},
-  booktitle={MULTIPLE SCLEROSIS JOURNAL},
-  volume={25},
-  pages={295--296},
-  year={2019},
-  organization={SAGE PUBLICATIONS LTD 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND}
-}
-
-@article{zhu2019relatively,
-  title={Relatively dominated representations},
-  author={Zhu, Feng},
-  journal={arXiv preprint arXiv:1912.13152},
   year={2019}
 }
 
@@ -551,16 +426,6 @@ author_profile: true
   publisher={American Society for Clinical Investigation}
 }
 
-@article{kopf2019mixture,
-  title={Mixture-of-Experts Variational Autoencoder for clustering and generating from similarity-based representations},
-  author={Kopf, Andreas and Fortuin, Vincent and Somnath, Vignesh Ram and Claassen, Manfred},
-  year={2019}
-}
-
-@article{claassenblueprint,
-  title={A Blueprint to Test Data Sharing within the Data Collaboration Center of the Swiss Personalized Health Network},
-  author={Claassen, Manfred and Schmid, Diana Elena Coman and Crameri, Katrin and Levesque, Mitchell and M{\"u}hll, Daniel Vonder and Banholzer, Nicolas and Kast, Florian and Odermatt, Aline and Wohlwend, Marc}
-}
 
 @article{gawinecka2017comprehensive,
   title={Comprehensive molecular profiling in acute aortic dissection: seeking diagnostic biomarkers: FV12},
@@ -667,7 +532,7 @@ author_profile: true
 @article{garrido2021visualizing,
   title={Visualizing hierarchies in scRNA-seq data using a density tree-biased autoencoder},
   author={Garrido, Quentin and Damrich, Sebastian and J{\"a}ger, Alexander and Cerletti, Dario and Claassen, Manfred and Najman, Laurent and Hamprecht, Fred},
-  journal={arXiv preprint arXiv:2102.05892},
+  journal={arXiv},
   year={2021}
 }
 
@@ -711,23 +576,6 @@ author_profile: true
   year={2021},
   publisher={Public Library of Science San Francisco, CA USA}
 }
-
-@article{wikivalidation,
-  title={Validation: Quantitative, targeted metabolomics},
-  author={Wiki, IMSB and Aebersold, Ruedi and Gstaiger, Matthias and Malmstr{\"o}m, Lars and Claassen, Manfred and Hafen, Ernst and Stocker, Hugo and Sauer, Uwe and Zamboni, Nicola and Wollscheid, Bernd}
-}
-
-@article{macnairpsupertime,
-  title={psupertime: supervised pseudotime inference for single cell},
-  author={Macnair, Will and Claassen, Manfred}
-}
-
-@article{venturatgf,
-  title={TGF-induces oncofetal fibronectin, which in turn modulates TGF-superfamily signaling in endothelial cells},
-  author={Ventura, Elisa and Weller, Michael and Macnair, Will and Eschbach, Katja and Beisel, Christian and Cordazzo, Cinzia and Claassen, Manfred and Zardi, Luciano and Burghardt, Isabel}
-}
-
-
 
 
 </textarea>
