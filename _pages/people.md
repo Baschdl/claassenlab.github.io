@@ -12,7 +12,7 @@ author_profile: true
 - - - - - - -
 
 [Dr. Sepideh Babaei](../people/sepideh-babaei.md)<br/>
-[Nicole Beucke](../people/nicola-beucke.md)<br/>
+[Nicola Beucke](../people/nicola-beucke.md)<br/>
 [Jonas Bochem](../people/jonas-bochem.md)<br/>
 [Matthias Bruhns](../people/matthias-bruhns.md)<br/>
 [Andrea Gaißler](../people/andrea-gaißler.md)<br/>
