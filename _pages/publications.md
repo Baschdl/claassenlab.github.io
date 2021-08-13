@@ -735,6 +735,7 @@ author_profile: true
 <div id="bibtex_display">
 
   <div class="bibtex_template">
+  
     <ul> <li>
       <span class="if title">
         <a class="url">
@@ -751,3 +752,12 @@ author_profile: true
       </div>
     </li></ul>
   </div>
+  
+  <div class="bibtex_structure">
+  <div class="group year" extra="ASC number">
+    <div class="group journal" extra="ASC string">
+        <div class="templates"></div>
+      </div>
+    </div>
+  </div>
+</div>
