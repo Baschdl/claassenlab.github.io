@@ -7,8 +7,8 @@ author_profile: true
 ---
 
 
-[Prof. Dr. Manfred Claassen](../people/manfred-claassen.md) (Leader of drylab)<br/>
-[Dr.  Kilian Wistuba-Hamprecht](../people/kilian-wistuba-hamprecht.md) (Leader of wetlab)
+[Prof. Dr. Manfred Claassen](../people/manfred-claassen.md) (Principle investigator)<br/>
+[Dr.  Kilian Wistuba-Hamprecht](../people/kilian-wistuba-hamprecht.md) (Junior research group leader)
 - - - - - - -
 
 [Dr. Sepideh Babaei](../people/sepideh-babaei.md)<br/>
