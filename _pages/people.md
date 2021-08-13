@@ -15,7 +15,7 @@ author_profile: true
 [Revant Gupta](../people/revant-gupta.md)<br/>
 [Matthias Bruhns](../people/matthias-bruhns.md)<br/>
 
-[Andrea Gaißler](../people/andrea-geißler.md)<br/>
+[Andrea Gaißler](../people/andrea-gaißler.md)<br/>
 [Nicole Beucke](../people/nicola-beucke.md)<br/>
 [Jonas Bochem](../people/jonas-bochem.md)<br/>
 [Dr. Alexander Martens](../people/alexander-martens.md)<br/>

@@ -1,5 +1,5 @@
 ---
-permalink: /people/andrea-geißler/
+permalink: /people/andrea-gaißler/
 title: "People"
 excerpt: ""
 author_profile: true
@@ -7,5 +7,5 @@ author_profile: true
 ---
 
 
-## Andrea Geißler
+## Andrea Gaißler
 **PhD student**
