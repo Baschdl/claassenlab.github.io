@@ -751,5 +751,3 @@ author_profile: true
       </div>
     </li></ul>
   </div>
-
-</dl>
