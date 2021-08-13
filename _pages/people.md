@@ -7,7 +7,8 @@ author_profile: true
 ---
 
 
-[Prof. Dr. Manfred Claassen](../people/manfred-claassen.md) (Drylab)  [Dr.  Kilian Wistuba-Hamprecht](../people/kilian-wistuba-hamprecht.md) (Wetlab)
+[Prof. Dr. Manfred Claassen](../people/manfred-claassen.md) (Drylab)    [Dr.  Kilian Wistuba-Hamprecht](../people/kilian-wistuba-hamprecht.md) (Wetlab)
+- - - - - - -
 
 [Dr. Sepideh Babaei](../people/sepideh-babaei.md)<br/>
 [Nicole Beucke](../people/nicola-beucke.md)<br/>
@@ -17,7 +18,7 @@ author_profile: true
 [Revant Gupta](../people/revant-gupta.md)<br/>
 [Dr. Alexander Martens](../people/alexander-martens.md)<br/>
 [Dr. Anne Mohrholz](../people/anne-mohrholz.md)<br/>
-[Dr. Debdas Paul](../people/debdas-paul.md)
+[Dr. Debdas Paul](../people/debdas-paul.md)<br/>
 [Janine Spreuer](../people/janine-spreuer.md)<br/>
 [Svenja Wingerter](../people/svenja-wingerter.md)<br/>
 
