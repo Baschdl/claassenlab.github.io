@@ -1,6 +1,6 @@
 ---
 permalink: /positions/postdoc-position-1/
-title: "Postdoctoral Research Assistant (m/f/d, E13 TV-L, 65%)"
+title: "Postdoctoral Research Assistant (m/f/d, E13 TV-L, 100%)"
 excerpt: ""
 author_profile: true
 
