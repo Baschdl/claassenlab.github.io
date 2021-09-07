@@ -13,6 +13,7 @@ author_profile: true
 
 [Dr. Sepideh Babaei](../people/sepideh-babaei.md)<br/>
 [Nicola Beucke](../people/nicola-beucke.md)<br/>
+[Sebastian Bischoff](../people/sebastian-bischoff.md)<br/>
 [Jonas Bochem](../people/jonas-bochem.md)<br/>
 [Matthias Bruhns](../people/matthias-bruhns.md)<br/>
 [Andrea Gaißler](../people/andrea-gaißler.md)<br/>
@@ -20,6 +21,7 @@ author_profile: true
 [Dr. Alexander Martens](../people/alexander-martens.md)<br/>
 [Dr. Anne Mohrholz](../people/anne-mohrholz.md)<br/>
 [Dr. Debdas Paul](../people/debdas-paul.md)<br/>
+[Vivek Sehra](../people/vivek-sehra.md)<br/>
 [Janine Spreuer](../people/janine-spreuer.md)<br/>
 [Svenja Wingerter](../people/svenja-wingerter.md)
 
